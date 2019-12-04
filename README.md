@@ -4,7 +4,7 @@ Script realizado en Python que utiliza la librería de Google "Speech Recognitio
 
 Sistema Operativo: Linux Ubuntu con entorno de escritorio LXDE.
 
-Para el testeo se ha utilizado un fragmento de la canción "Mi consejo" de Rafa Espino, la aplicación no soporta videos largos por lo que se ha utilizado solo unos segundos del audio.
+Para el testeo se ha utilizado un fragmento de la canción "Mi consejo" de Rafa Espino, la aplicación no soporta audios largos por lo que se ha utilizado solo unos segundos del audio.
 
 Paraconseguir el audio se ha extraído el audio del videoclip del artista utilizando la aplicación online https://www.onlinevideoconverter.com/es y una vez descargado el audio se ha recortado la pista de audio a un tamaño el cual la aplicación pueda soportarla, para ello se ha tenido que hacer varias pruebas ya que se pretendía que la aplicación mostrara un texto considerable por pantalla.
 
