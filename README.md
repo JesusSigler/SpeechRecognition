@@ -8,6 +8,12 @@ Para el testeo se ha utilizado un fragmento de la canción "Mi consejo" de Rafa 
 
 Para conseguir el audio se ha extraído del videoclip del artista utilizando la aplicación online: https://www.onlinevideoconverter.com/es y una vez extraído el audio se ha recortado la pista de audio a un tamaño el cual la aplicación pueda soportarla, para ello se ha tenido que hacer varias pruebas ya que se pretendía que la aplicación mostrara un texto considerable por pantalla.
 
+Para probar la aplicación:
+
+1 - Ambos archivos deben situarse en el mismo directorio.
+2 - En terminal colocar el siguiente comando:
+    python nombreArchivo.py, donde "nombreArchivo" debe ser sustituido por el nombre del archivo de audio.
+
 Problemas que han surgido durante el testeo:
 
 1 - No se encontraba el módulo llamado speech_recognition
